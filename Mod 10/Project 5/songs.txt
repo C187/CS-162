@@ -1,0 +1,6 @@
+00.;00;0;0;00
+0 Track;0 Artist;0;00;0 Album
+1 Track;0 Artist;0;00;0 Album
+Aaaa;A;1;11;A
+Ab;AB;1;11;AB
+Bbbbb;B;2;22;B
